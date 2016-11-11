@@ -1,3 +1,4 @@
+//Criado por Wesley Anibal, Aluno de EDA(2016.2), professor: João Arthur Brunet.
 package classeNquadrado;
 
 import static org.junit.Assert.*;
